@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Libclash",
-            url:"https://github.com/tensionc/fclash/releases/download/v1.0.0/Libclash.xcframework.zip",
-            checksum: "ee87568b1db4715f5f36bbc3ac377e99f2f42f213b0e6a545277621573fdaadd"
+            url:"https://github.com/tensionc/fclash/releases/download/v1.0.1/Libclash.xcframework.zip",
+            checksum: "9df6bc4a226c1f6a8faf1632af1192c4f297a3eae8d5a55a4201719ee126f901"
         )
     ]
 )
